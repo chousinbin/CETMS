@@ -23,3 +23,17 @@
 - 管理员：管理教师和学生信息
 - 教师：管理大学英语四六级成绩
 - 学生：查询大学英语四六级成绩
+
+### 运行截图
+
+#### 教师管理
+
+![Snipaste_2024-06-11_18-43-03](https://cdn.jsdelivr.net/gh/chousinbin/Image/202406111846286.png)
+
+#### 成绩维护
+
+![Snipaste_2024-06-11_18-41-52](https://cdn.jsdelivr.net/gh/chousinbin/Image/202406111846507.png)
+
+#### 成绩查询
+
+![Snipaste_2024-06-11_18-42-32](https://cdn.jsdelivr.net/gh/chousinbin/Image/202406111846455.png)
